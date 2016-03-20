@@ -1,0 +1,28 @@
+name: writer
+favicon: null
+layout_spectrum: 0.6389987033326179
+typography_spectrum: 0.23300664848648012
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.19661962846294045
+  lightness: 0.9333423546049744
+  saturation: 0.07242607022635639
+  rhythmicContrast: 0.9571541126351804
+purpose: []
