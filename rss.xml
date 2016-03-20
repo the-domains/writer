@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[writer]]></title>
         <description><![CDATA[writer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/writer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 18:26:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Mar 2016 18:26:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/writer/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[For the love of speed and bow ties at Goodwood]]></title>
+            <description><![CDATA[<article><h1>For the love of speed and bow ties at Goodwood</h1><p>Charles Gordon-Lennox, Earl of March and Kinrara - Lord March to his acquaintances - is the lucky descendant of King Charles II (1630-1685) and his French mistress Louise de Keroualle. This, to make a long story short, is how the good Lord came to run the 12,000-acre Goodwood Estate like a theme park for all things English.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3f45ff99067229f5b6a187d9f7c32a5dde20523.jpg"></article>]]></description>
+            <link>http://www.theglobeandmail.com/globe-drive/culture/commentary/trying-to-understand-the-appeal-of-speed-and-ascots-in-goodwood/article25628139/</link>
+            <guid isPermaLink="false">eba1ba85-6da4-4189-ba94-99845aa30580</guid>
+            <pubDate>Sun, 20 Mar 2016 18:26:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Inside the money, machines, oysters and privilege of Pebble Beach]]></title>
             <description><![CDATA[<article><h1>Inside the money, machines, oysters and privilege of Pebble Beach</h1><p>Pebble Beach Automotive Week is champagne and oysters, triumphant classical music and wicker sun hats. It is summer dresses and brightly coloured suits. It is golf courses and country clubs, Clint Eastwood and Jay Leno. There's the scion of an Italian gun manufacturer and a man with a green parrot on his shoulder.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c19a575956a5bebef6fae381f8f0e55e28f8f6b3.jpg"></article>]]></description>
