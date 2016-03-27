@@ -2,6 +2,7 @@ name: writer
 favicon: null
 layout_spectrum: 0.73609
 typography_spectrum: 0.78059
+title: clippings
 cta:
   domain: null
   bucket: null
