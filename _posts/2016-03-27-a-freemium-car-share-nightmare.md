@@ -17,20 +17,20 @@ keywords:
   - rerouting
   - minute
 description: 'Hi, and welcome to your ZumbaCar. Thanks for choosing the number one freemium car share service in [your city]! Where can we take you today? Great choice. Your selected journey will take about 25 minutes. Please buckle up, sit back, relax and enjoy the ads.'
-datePublished: '2016-03-27T18:18:17.903Z'
-dateModified: '2016-03-27T18:17:58.212Z'
+datePublished: '2016-03-27T18:20:02.798Z'
+dateModified: '2016-03-27T18:19:49.935Z'
 author: []
 related: []
 app_links: []
 title: A freemium car-share nightmare
+sourcePath: _posts/2016-03-27-a-freemium-car-share-nightmare.md
+published: true
 authors: []
 publisher:
   name: The Globe and Mail
   domain: www.theglobeandmail.com
   url: 'http://www.theglobeandmail.com'
   favicon: 'http://beta.images.theglobeandmail.com/media/www/images/flag/favicon.ico'
-sourcePath: _posts/2016-03-27-a-freemium-car-share-nightmare.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
