@@ -16,9 +16,9 @@ keywords:
   - green
   - price
   - rise
-description: "Another new supercar. These things are getting as common as Marvel movies and just as hard to make sense of. It had to be bright green? Green Hornet, Green Lantern, The Hulk, The Grinch, who can keep track anymore? You've seen one you've seen 'em all. That's mostly true."
-datePublished: '2016-03-27T17:55:46.374Z'
-dateModified: '2016-03-27T17:55:36.468Z'
+description: "Another new supercar. These things are getting as common as Marvel movies and just as hard to make sense of. It had to be bright green? Green Hornet, Green Lantern, The Hulk, The Grinch, who can keep track anymore? You've seen one you've seen 'em all."
+datePublished: '2016-03-27T18:01:26.108Z'
+dateModified: '2016-03-27T17:58:42.827Z'
 author: []
 related: []
 app_links: []
