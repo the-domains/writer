@@ -17,8 +17,8 @@ keywords:
   - rerouting
   - minute
 description: 'Hi, and welcome to your ZumbaCar. Thanks for choosing the number one freemium car share service in [your city]! Where can we take you today? Great choice. Your selected journey will take about 25 minutes. Please buckle up, sit back, relax and enjoy the ads.'
-datePublished: '2016-03-27T18:24:21.148Z'
-dateModified: '2016-03-27T18:20:08.959Z'
+datePublished: '2016-03-27T18:25:41.919Z'
+dateModified: '2016-03-27T18:25:13.253Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>This autonomous commute brought to you by...a nightmare of ads</h1><p>Hi, and welcome to your ZumbaCar. Thanks for choosing the number one freemium car share service in [your city]! Where can we take you today? Great choice. Your selected journey will take about 25 minutes. Please buckle up, sit back, relax and enjoy the ads.</p><img src="http://static.theglobeandmail.ca/9cd/globe-drive/culture/commuting/article14148784.ece/ALTERNATES/w620/Traffic03.JPG" /></article>
+<article style=""><h1>A freemium car-share nightmare</h1><p>Hi, and welcome to your ZumbaCar. Thanks for choosing the number one freemium car share service in [your city]! Where can we take you today? Great choice. Your selected journey will take about 25 minutes. Please buckle up, sit back, relax and enjoy the ads.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/341853ef045d648704ce3c6cfa2577690bc965a1.jpg" /></article>
