@@ -17,12 +17,12 @@ keywords:
   - price
   - rise
 description: "Another new supercar. These things are getting as common as Marvel movies and just as hard to make sense of. It had to be bright green? Green Hornet, Green Lantern, The Hulk, The Grinch, who can keep track anymore? You've seen one you've seen 'em all. That's mostly true."
-datePublished: '2016-03-27T17:54:44.852Z'
-dateModified: '2016-03-27T17:52:34.050Z'
+datePublished: '2016-03-27T17:55:46.374Z'
+dateModified: '2016-03-27T17:55:36.468Z'
 author: []
 related: []
 app_links: []
-title: McLaren 675LT
+title: McLaren 675LT at the Salton Sea
 sourcePath: _posts/2016-03-27-the-mclaren-675lt-is-an-electrifying-turbocharged-thrill-ri.md
 published: true
 authors: []
