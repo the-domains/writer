@@ -17,8 +17,8 @@ keywords:
   - rerouting
   - minute
 description: 'Hi, and welcome to your ZumbaCar. Thanks for choosing the number one freemium car share service in [your city]! Where can we take you today? Great choice. Your selected journey will take about 25 minutes. Please buckle up, sit back, relax and enjoy the ads.'
-datePublished: '2016-03-27T18:25:41.919Z'
-dateModified: '2016-03-27T18:25:13.253Z'
+datePublished: '2016-03-28T22:48:02.916Z'
+dateModified: '2016-03-28T22:44:19.251Z'
 author: []
 related: []
 app_links: []
